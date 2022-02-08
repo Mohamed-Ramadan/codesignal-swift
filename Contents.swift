@@ -6,3 +6,12 @@ print(s)
 
 let s2 = firstNotRepeatingCharacterSolution2(s: "abcabcd")
 print(s2)
+
+
+
+let s3 = launchSequenceCheckerSolution(systemNames: ["stage_1",
+                                                     "stage_1",
+                                                     "stage_2",
+                                                     "dragon"], stepNumbers: [2, 1, 12, 111])
+print(s3)
+
