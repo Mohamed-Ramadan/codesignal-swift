@@ -14,7 +14,10 @@ import Foundation
 //                                                     "stage_2",
 //                                                     "dragon"], stepNumbers: [2, 1, 12, 111])
 //print(s3)
+//
+//
+//let s3 = makeArrayConsecutive2Solution(statues: [6, 2, 3, 8])
+//print(s3)
 
-
-let s3 = makeArrayConsecutive2Solution(statues: [6, 2, 3, 8])
-print(s3)
+let s4 = almostIncreasingSequenceSolution(sequence: [6, 2, 3, 8])
+print(s4)
